@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jodie-Forbes
-- 👀 I’m interested in neuroscience research, specifically applying machine learning methods to studies of neurodegeneration
+- 👀 I’m interested in neuroscience research, specifically applying machine learning/data science to studies of neurodegeneration
 
 
 <!---
